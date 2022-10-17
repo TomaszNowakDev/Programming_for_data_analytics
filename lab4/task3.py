@@ -1,3 +1,4 @@
+# Lab 4 task 3
 import numpy as np
 
 
