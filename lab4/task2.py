@@ -7,7 +7,7 @@ def even_second_half(arr):
     print()
 
     second_half = int(len(arr[0])/2)
-    print(arr[2::2, second_half:])
+    print(arr[1::2, second_half:])
 
 
 def main():
