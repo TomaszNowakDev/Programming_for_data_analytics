@@ -8,4 +8,4 @@ def get_int(lis):
     print(new_list)
 
 
-get_int([1, 2, "Tomasz", 2.54, '3', 1, 4, 5, 6])
+get_int([1, 2, "Tomasz", 2.54, '3', 1, 4, 5, 6, {1: 4}])
